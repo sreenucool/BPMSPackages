@@ -9,9 +9,9 @@
      <!--  # <property name="isProjectsDir" location="${isPackages}"/>-->
      <!-- # <property name="isTestDir" location="${isTests}"/>-->
         <property name="bpmProjectsDir" location="${bpmProjects}"/>
-       # <property name="mwsProjectsDir" location="${mwsProjects}"/>
-        #<property name="rulesProjectsDir" location="${rulesProjects}"/>
-       # <property name="umProjectsDir" location="${umExport}"/>
+      <!-- # <property name="mwsProjectsDir" location="${mwsProjects}"/>-->
+      <!-- #<property name="rulesProjectsDir" location="${rulesProjects}"/>-->
+     <!-- #<property name="umProjectsDir" location="${umExport}"/>-->
         
         <property name="buildOutputDir" value="${workspace.dir}/target/${projectName}/build"/>
         <property name="repositoryName" value="${projectName}Repo"/>
